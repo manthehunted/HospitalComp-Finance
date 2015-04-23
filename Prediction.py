@@ -34,8 +34,9 @@ class Prediction(object):
         headers = {'Content-Type':'application/json', 'Authorization':('Bearer '+ api_key)}
 
         if not api_key:
-            print(error.info())
-            print('Please obtain API key') 
+            print('Please obtain API key')
+            print('\n')
+
         req = urllib2.Request(url, self.body, headers) 
         
         try:

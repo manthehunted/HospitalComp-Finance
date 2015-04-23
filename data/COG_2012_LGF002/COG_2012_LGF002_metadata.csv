@@ -1,0 +1,698 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+A1_REV,COUNTY GOVERNMENT AMOUNT; Revenue
+A2_REV,MUNICIPAL GOVERNMENT AMOUNT; Revenue
+A3_REV,TOWNSHIP GOVERNMENT AMOUNT; Revenue
+A4_REV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue
+A5_REV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue
+A1_GENREV,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue
+A2_GENREV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue
+A3_GENREV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue
+A4_GENREV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue
+A5_GENREV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue
+A1_INTERGOV,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue
+A2_INTERGOV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue
+A3_INTERGOV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue
+A4_INTERGOV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue
+A5_INTERGOV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue
+A1_FROMFED,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Federal
+A2_FROMFED,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Federal
+A3_FROMFED,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Federal
+A4_FROMFED,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Federal
+A5_FROMFED,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Federal
+A1_FROMSTAT,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From State
+A2_FROMSTAT,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From State
+A3_FROMSTAT,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From State
+A4_FROMSTAT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From State
+A5_FROMSTAT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From State
+A1_FROMLOC,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Local
+A2_FROMLOC,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Local
+A3_FROMLOC,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Local
+A4_FROMLOC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Local
+A5_FROMLOC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - Intergovernmental revenue - From Local
+A1_GENREVFROM,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources
+A2_GENREVFROM,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources
+A3_GENREVFROM,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources
+A4_GENREVFROM,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources
+A5_GENREVFROM,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources
+A1_TAXES,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes
+A2_TAXES,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes
+A3_TAXES,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes
+A4_TAXES,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes
+A5_TAXES,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes
+A1_PROP,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Property
+A2_PROP,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Property
+A3_PROP,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Property
+A4_PROP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Property
+A5_PROP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Property
+A1_SALESANDGROSS,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts
+A2_SALESANDGROSS,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts
+A3_SALESANDGROSS,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts
+A4_SALESANDGROSS,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts
+A5_SALESANDGROSS,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts
+A1_GENSALES,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - General sales
+A2_GENSALES,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - General sales
+A3_GENSALES,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - General sales
+A4_GENSALES,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - General sales
+A5_GENSALES,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - General sales
+A1_SELESALES,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales
+A2_SELESALES,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales
+A3_SELESALES,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales
+A4_SELESALES,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales
+A5_SELESALES,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales
+A1_MOTFUEL,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Motor fuel
+A2_MOTFUEL,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Motor fuel
+A3_MOTFUEL,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Motor fuel
+A4_MOTFUEL,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Motor fuel
+A5_MOTFUEL,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Motor fuel
+A1_ALCBEV,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Alcoholic beverage
+A2_ALCBEV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Alcoholic beverage
+A3_ALCBEV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Alcoholic beverage
+A4_ALCBEV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Alcoholic beverage
+A5_ALCBEV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Alcoholic beverage
+A1_TOBPROD,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Tobacco products
+A2_TOBPROD,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Tobacco products
+A3_TOBPROD,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Tobacco products
+A4_TOBPROD,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Tobacco products
+A5_TOBPROD,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Tobacco products
+A1_PUBUT,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Public utilities
+A2_PUBUT,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Public utilities
+A3_PUBUT,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Public utilities
+A4_PUBUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Public utilities
+A5_PUBUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Public utilities
+A1_OTHSELSALES,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Other selective sales
+A2_OTHSELSALES,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Other selective sales
+A3_OTHSELSALES,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Other selective sales
+A4_OTHSELSALES,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Other selective sales
+A5_OTHSELSALES,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Sales and gross receipts - Selective sales - Other selective sales
+A1_INDINCOME,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Individual income
+A2_INDINCOME,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Individual income
+A3_INDINCOME,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Individual income
+A4_INDINCOME,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Individual income
+A5_INDINCOME,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Individual income
+A1_CORINCOME,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Corporate income
+A2_CORINCOME,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Corporate income
+A3_CORINCOME,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Corporate income
+A4_CORINCOME,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Corporate income
+A5_CORINCOME,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Corporate income
+A1_MOTVEHLIC,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Motor vehicle license
+A2_MOTVEHLIC,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Motor vehicle license
+A3_MOTVEHLIC,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Motor vehicle license
+A4_MOTVEHLIC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Motor vehicle license
+A5_MOTVEHLIC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - Motor vehicle license
+A1_ALLOTHTAXES,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - All other taxes
+A2_ALLOTHTAXES,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - All other taxes
+A3_ALLOTHTAXES,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - All other taxes
+A4_ALLOTHTAXES,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - All other taxes
+A5_ALLOTHTAXES,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Taxes - All other taxes
+A1_CHARANDMISCGENREV,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue
+A2_CHARANDMISCGENREV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue
+A3_CHARANDMISCGENREV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue
+A4_CHARANDMISCGENREV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue
+A5_CHARANDMISCGENREV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue
+A1_CURRCHARGES,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges
+A2_CURRCHARGES,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges
+A3_CURRCHARGES,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges
+A4_CURRCHARGES,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges
+A5_CURRCHARGES,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges
+A1_EDU,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education
+A2_EDU,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education
+A3_EDU,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education
+A4_EDU,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education
+A5_EDU,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education
+A1_INSTOFHIGHEDU,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - Insitutions of higher education
+A2_INSTOFHIGHEDU,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - Insitutions of higher education
+A3_INSTOFHIGHEDU,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - Insitutions of higher education
+A4_INSTOFHIGHEDU,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - Insitutions of higher education
+A5_INSTOFHIGHEDU,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - Insitutions of higher education
+A1_SCHLUNSALESGROSS,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - School lunch sales (gross)
+A2_SCHLUNSALESGROSS,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - School lunch sales (gross)
+A3_SCHLUNSALESGROSS,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - School lunch sales (gross)
+A4_SCHLUNSALESGROSS,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - School lunch sales (gross)
+A5_SCHLUNSALESGROSS,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Education - School lunch sales (gross)
+A1_HOSP,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Hospitals
+A2_HOSP,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Hospitals
+A3_HOSP,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Hospitals
+A4_HOSP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Hospitals
+A5_HOSP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Hospitals
+A1_HIGH,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Highways
+A2_HIGH,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Highways
+A3_HIGH,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Highways
+A4_HIGH,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Highways
+A5_HIGH,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Highways
+A1_AIRTRANSAIRP,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Air transportation (airports)
+A2_AIRTRANSAIRP,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Air transportation (airports)
+A3_AIRTRANSAIRP,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Air transportation (airports)
+A4_AIRTRANSAIRP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Air transportation (airports)
+A5_AIRTRANSAIRP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Air transportation (airports)
+A1_PARKFAC,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parking facilities
+A2_PARKFAC,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parking facilities
+A3_PARKFAC,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parking facilities
+A4_PARKFAC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parking facilities
+A5_PARKFAC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parking facilities
+A1_SEAANDINLA,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sea and inland port facilities
+A2_SEAANDINLA,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sea and inland port facilities
+A3_SEAANDINLA,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sea and inland port facilities
+A4_SEAANDINLA,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sea and inland port facilities
+A5_SEAANDINLA,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sea and inland port facilities
+A1_NATRESOUR,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Natural resources
+A2_NATRESOUR,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Natural resources
+A3_NATRESOUR,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Natural resources
+A4_NATRESOUR,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Natural resources
+A5_NATRESOUR,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Natural resources
+A1_PARANDREC,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parks and recreation
+A2_PARANDREC,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parks and recreation
+A3_PARANDREC,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parks and recreation
+A4_PARANDREC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parks and recreation
+A5_PARANDREC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Parks and recreation
+A1_HOUSANDCOMMDEV,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Housing and community development
+A2_HOUSANDCOMMDEV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Housing and community development
+A3_HOUSANDCOMMDEV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Housing and community development
+A4_HOUSANDCOMMDEV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Housing and community development
+A5_HOUSANDCOMMDEV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Housing and community development
+A1_SEWERAGE,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sewerage
+A2_SEWERAGE,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sewerage
+A3_SEWERAGE,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sewerage
+A4_SEWERAGE,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sewerage
+A5_SEWERAGE,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Sewerage
+A1_SOLIWASTMAN,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Solid waste management
+A2_SOLIWASTMAN,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Solid waste management
+A3_SOLIWASTMAN,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Solid waste management
+A4_SOLIWASTMAN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Solid waste management
+A5_SOLIWASTMAN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Solid waste management
+A1_OTHCHARG,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Other charges
+A2_OTHCHARG,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Other charges
+A3_OTHCHARG,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Other charges
+A4_OTHCHARG,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Other charges
+A5_OTHCHARG,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Current charges - Other charges
+A1_MISCGENREV,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue
+A2_MISCGENREV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue
+A3_MISCGENREV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue
+A4_MISCGENREV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue
+A5_MISCGENREV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue
+A1_INTEAR,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Interest earnings
+A2_INTEAR,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Interest earnings
+A3_INTEAR,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Interest earnings
+A4_INTEAR,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Interest earnings
+A5_INTEAR,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Interest earnings
+A1_SPECASSESS,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Special assessments
+A2_SPECASSESS,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Special assessments
+A3_SPECASSESS,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Special assessments
+A4_SPECASSESS,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Special assessments
+A5_SPECASSESS,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Special assessments
+A1_SALOFPROP,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Sale of property
+A2_SALOFPROP,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Sale of property
+A3_SALOFPROP,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Sale of property
+A4_SALOFPROP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Sale of property
+A5_SALOFPROP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Sale of property
+A1_OTHGENREV,COUNTY GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Other general revenue
+A2_OTHGENREV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Other general revenue
+A3_OTHGENREV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Other general revenue
+A4_OTHGENREV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Other general revenue
+A5_OTHGENREV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - General revenue - General revenue from own sources - Charges and miscellaneous general revenue - Miscellaneous general revenue - Other general revenue
+A1_UTILREV,COUNTY GOVERNMENT AMOUNT; Revenue - Utility revenue
+A2_UTILREV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Utility revenue
+A3_UTILREV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Utility revenue
+A4_UTILREV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue
+A5_UTILREV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue
+A1_WATERSUP,COUNTY GOVERNMENT AMOUNT; Revenue - Utility revenue - Water supply
+A2_WATERSUP,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Utility revenue - Water supply
+A3_WATERSUP,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Utility revenue - Water supply
+A4_WATERSUP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue - Water supply
+A5_WATERSUP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue - Water supply
+A1_ELECPOW,COUNTY GOVERNMENT AMOUNT; Revenue - Utility revenue - Electric power
+A2_ELECPOW,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Utility revenue - Electric power
+A3_ELECPOW,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Utility revenue - Electric power
+A4_ELECPOW,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue - Electric power
+A5_ELECPOW,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue - Electric power
+A1_GASSUPP,COUNTY GOVERNMENT AMOUNT; Revenue - Utility revenue - Gas supply
+A2_GASSUPP,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Utility revenue - Gas supply
+A3_GASSUPP,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Utility revenue - Gas supply
+A4_GASSUPP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue - Gas supply
+A5_GASSUPP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue - Gas supply
+A1_TRAN,COUNTY GOVERNMENT AMOUNT; Revenue - Utility revenue - Transit
+A2_TRAN,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Utility revenue - Transit
+A3_TRAN,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Utility revenue - Transit
+A4_TRAN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue - Transit
+A5_TRAN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Utility revenue - Transit
+A1_LIQSTORREV,COUNTY GOVERNMENT AMOUNT; Revenue - Liquor store revenue
+A2_LIQSTORREV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Liquor store revenue
+A3_LIQSTORREV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Liquor store revenue
+A4_LIQSTORREV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Liquor store revenue
+A5_LIQSTORREV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Liquor store revenue
+A1_INSURTRUSREV,COUNTY GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1)
+A2_INSURTRUSREV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1)
+A3_INSURTRUSREV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1)
+A4_INSURTRUSREV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1)
+A5_INSURTRUSREV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1)
+A1_UNEMPCOMP,COUNTY GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Unemployment compensation
+A2_UNEMPCOMP,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Unemployment compensation
+A3_UNEMPCOMP,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Unemployment compensation
+A4_UNEMPCOMP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Unemployment compensation
+A5_UNEMPCOMP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Unemployment compensation
+A1_EMPLOYRET,COUNTY GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Employee retirement
+A2_EMPLOYRET,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Employee retirement
+A3_EMPLOYRET,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Employee retirement
+A4_EMPLOYRET,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Employee retirement
+A5_EMPLOYRET,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Employee retirement
+A1_WORKCOMP,COUNTY GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Workers'compensation
+A2_WORKCOMP,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Workers'compensation
+A3_WORKCOMP,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Workers'compensation
+A4_WORKCOMP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Workers'compensation
+A5_WORKCOMP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Workers'compensation
+A1_OTHINSURTRUREV,COUNTY GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Other insurance trust revenue
+A2_OTHINSURTRUREV,MUNICIPAL GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Other insurance trust revenue
+A3_OTHINSURTRUREV,TOWNSHIP GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Other insurance trust revenue
+A4_OTHINSURTRUREV,SPECIAL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Other insurance trust revenue
+A5_OTHINSURTRUREV,SCHOOL DISTRICT GOVERNMENT AMOUNT; Revenue - Insurance trust revenue (1) - Other insurance trust revenue
+A1_EXP,COUNTY GOVERNMENT AMOUNT; Expenditure
+A2_EXP,MUNICIPAL GOVERNMENT AMOUNT; Expenditure
+A3_EXP,TOWNSHIP GOVERNMENT AMOUNT; Expenditure
+A4_EXP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure
+A5_EXP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure
+A1_INTERGOVEXP,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Intergovernmental expenditure
+A2_INTERGOVEXP,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Intergovernmental expenditure
+A3_INTERGOVEXP,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Intergovernmental expenditure
+A4_INTERGOVEXP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Intergovernmental expenditure
+A5_INTERGOVEXP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Intergovernmental expenditure
+A1_DIREXP,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure
+A2_DIREXP,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure
+A3_DIREXP,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure
+A4_DIREXP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure
+A5_DIREXP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure
+A1_CURROPER,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Current operations
+A2_CURROPER,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Current operations
+A3_CURROPER,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Current operations
+A4_CURROPER,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Current operations
+A5_CURROPER,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Current operations
+A1_CAPOUTLAY,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay
+A2_CAPOUTLAY,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay
+A3_CAPOUTLAY,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay
+A4_CAPOUTLAY,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay
+A5_CAPOUTLAY,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay
+A1_constr,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Construction
+A2_constr,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Construction
+A3_constr,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Construction
+A4_constr,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Construction
+A5_constr,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Construction
+A1_OTHCAPOUT,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Other capital outlay
+A2_OTHCAPOUT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Other capital outlay
+A3_OTHCAPOUT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Other capital outlay
+A4_OTHCAPOUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Other capital outlay
+A5_OTHCAPOUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Capital outlay - Other capital outlay
+A1_ASSISANDSUBS,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Assistance and subsidies
+A2_ASSISANDSUBS,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Assistance and subsidies
+A3_ASSISANDSUBS,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Assistance and subsidies
+A4_ASSISANDSUBS,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Assistance and subsidies
+A5_ASSISANDSUBS,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Assistance and subsidies
+A1_INTONDEBT,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Interest on debt
+A2_INTONDEBT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Interest on debt
+A3_INTONDEBT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Interest on debt
+A4_INTONDEBT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Interest on debt
+A5_INTONDEBT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Interest on debt
+A1_INSURBENEANDREPAY,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Insurance benefits and repayments
+A2_INSURBENEANDREPAY,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Insurance benefits and repayments
+A3_INSURBENEANDREPAY,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Insurance benefits and repayments
+A4_INSURBENEANDREPAY,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Insurance benefits and repayments
+A5_INSURBENEANDREPAY,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Insurance benefits and repayments
+A1_EXHIBITSALANDWAG,COUNTY GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Exhibit: Salaries and wages
+A2_EXHIBITSALANDWAG,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Exhibit: Salaries and wages
+A3_EXHIBITSALANDWAG,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Exhibit: Salaries and wages
+A4_EXHIBITSALANDWAG,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Exhibit: Salaries and wages
+A5_EXHIBITSALANDWAG,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - By character and object: - Direct expenditure - Exhibit: Salaries and wages
+A1_DIRECEXPENBYFUNC,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function
+A2_DIRECEXPENBYFUNC,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function
+A3_DIRECEXPENBYFUNC,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function
+A4_DIRECEXPENBYFUNC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function
+A5_DIRECEXPENBYFUNC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function
+A1_DIRECTGENEXP,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure
+A2_DIRECTGENEXP,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure
+A3_DIRECTGENEXP,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure
+A4_DIRECTGENEXP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure
+A5_DIRECTGENEXP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure
+A1_CAPIOUTLAY,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Capital outlay
+A2_CAPIOUTLAY,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Capital outlay
+A3_CAPIOUTLAY,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Capital outlay
+A4_CAPIOUTLAY,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Capital outlay
+A5_CAPIOUTLAY,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Capital outlay
+A1_OTHDIRGENEXPEN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Other direct general expenditure
+A2_OTHDIRGENEXPEN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Other direct general expenditure
+A3_OTHDIRGENEXPEN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Other direct general expenditure
+A4_OTHDIRGENEXPEN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Other direct general expenditure
+A5_OTHDIRGENEXPEN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Other direct general expenditure
+A1_EDUC,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education
+A2_EDUC,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education
+A3_EDUC,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education
+A4_EDUC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education
+A5_EDUC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education
+A1_CAPITALOUTLAY,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education - Capital outlay - education
+A2_CAPITALOUTLAY,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education - Capital outlay - education
+A3_CAPITALOUTLAY,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education - Capital outlay - education
+A4_CAPITALOUTLAY,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education - Capital outlay - education
+A5_CAPITALOUTLAY,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Education - Capital outlay - education
+A1_HIGEDUC,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education
+A2_HIGEDUC,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education
+A3_HIGEDUC,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education
+A4_HIGEDUC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education
+A5_HIGEDUC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education
+A1_CAPITOUTLAY,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education - Capital outlay
+A2_CAPITOUTLAY,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education - Capital outlay
+A3_CAPITOUTLAY,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education - Capital outlay
+A4_CAPITOUTLAY,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education - Capital outlay
+A5_CAPITOUTLAY,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Higher education - Capital outlay
+A1_ELEMENSEC,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary
+A2_ELEMENSEC,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary
+A3_ELEMENSEC,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary
+A4_ELEMENSEC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary
+A5_ELEMENSEC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary
+A1_CAPOUT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary - Capital outlay
+A2_CAPOUT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary - Capital outlay
+A3_CAPOUT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary - Capital outlay
+A4_CAPOUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary - Capital outlay
+A5_CAPOUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Elementary & secondary - Capital outlay
+A1_OTHEDUC,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Other education
+A2_OTHEDUC,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Other education
+A3_OTHEDUC,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Other education
+A4_OTHEDUC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Other education
+A5_OTHEDUC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Other education
+A1_LIBRA,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Libraries
+A2_LIBRA,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Libraries
+A3_LIBRA,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Libraries
+A4_LIBRA,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Libraries
+A5_LIBRA,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Education services: - Libraries
+A1_PUBWELF,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare
+A2_PUBWELF,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare
+A3_PUBWELF,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare
+A4_PUBWELF,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare
+A5_PUBWELF,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare
+A1_CASHASSISPAY,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Cash assistance payments
+A2_CASHASSISPAY,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Cash assistance payments
+A3_CASHASSISPAY,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Cash assistance payments
+A4_CASHASSISPAY,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Cash assistance payments
+A5_CASHASSISPAY,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Cash assistance payments
+A1_VENPAY,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Vendor payments
+A2_VENPAY,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Vendor payments
+A3_VENPAY,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Vendor payments
+A4_VENPAY,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Vendor payments
+A5_VENPAY,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Vendor payments
+A1_OTHPUBLWELF,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Other public welfare
+A2_OTHPUBLWELF,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Other public welfare
+A3_OTHPUBLWELF,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Other public welfare
+A4_OTHPUBLWELF,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Other public welfare
+A5_OTHPUBLWELF,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Public welfare - Other public welfare
+A1_HOSPIT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals
+A2_HOSPIT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals
+A3_HOSPIT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals
+A4_HOSPIT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals
+A5_HOSPIT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals
+A1_CAPITALOUT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals - Capital outlay
+A2_CAPITALOUT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals - Capital outlay
+A3_CAPITALOUT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals - Capital outlay
+A4_CAPITALOUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals - Capital outlay
+A5_CAPITALOUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Hospitals - Capital outlay
+A1_HEALTH,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Health
+A2_HEALTH,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Health
+A3_HEALTH,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Health
+A4_HEALTH,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Health
+A5_HEALTH,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Health
+A1_EMPLOYINSUADMIN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Employment security administration
+A2_EMPLOYINSUADMIN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Employment security administration
+A3_EMPLOYINSUADMIN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Employment security administration
+A4_EMPLOYINSUADMIN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Employment security administration
+A5_EMPLOYINSUADMIN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Employment security administration
+A1_VETSER,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Veterans' services
+A2_VETSER,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Veterans' services
+A3_VETSER,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Veterans' services
+A4_VETSER,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Veterans' services
+A5_VETSER,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Social services and income maintenance: - Veterans' services
+A1_HIGHWA,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways
+A2_HIGHWA,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways
+A3_HIGHWA,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways
+A4_HIGHWA,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways
+A5_HIGHWA,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways
+A1_CAPITAOUT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways - Capital outlay
+A2_CAPITAOUT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways - Capital outlay
+A3_CAPITAOUT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways - Capital outlay
+A4_CAPITAOUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways - Capital outlay
+A5_CAPITAOUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Highways - Capital outlay
+A1_AIRTRANSAIR,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Air transportation (airports)
+A2_AIRTRANSAIR,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Air transportation (airports)
+A3_AIRTRANSAIR,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Air transportation (airports)
+A4_AIRTRANSAIR,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Air transportation (airports)
+A5_AIRTRANSAIR,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Air transportation (airports)
+A1_PARKFACI,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Parking facilities
+A2_PARKFACI,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Parking facilities
+A3_PARKFACI,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Parking facilities
+A4_PARKFACI,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Parking facilities
+A5_PARKFACI,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Parking facilities
+A1_SEAANDIN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Sea and inland port facilities
+A2_SEAANDIN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Sea and inland port facilities
+A3_SEAANDIN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Sea and inland port facilities
+A4_SEAANDIN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Sea and inland port facilities
+A5_SEAANDIN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Transportation: - Sea and inland port facilities
+A1_POLPRO,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Police protection
+A2_POLPRO,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Police protection
+A3_POLPRO,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Police protection
+A4_POLPRO,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Police protection
+A5_POLPRO,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Police protection
+A1_FIRPRO,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Fire protection
+A2_FIRPRO,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Fire protection
+A3_FIRPRO,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Fire protection
+A4_FIRPRO,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Fire protection
+A5_FIRPRO,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Fire protection
+A1_CORR,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction
+A2_CORR,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction
+A3_CORR,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction
+A4_CORR,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction
+A5_CORR,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction
+A1_CAPITALOUTL,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction - Capital outlay
+A2_CAPITALOUTL,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction - Capital outlay
+A3_CAPITALOUTL,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction - Capital outlay
+A4_CAPITALOUTL,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction - Capital outlay
+A5_CAPITALOUTL,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Correction - Capital outlay
+A1_Protinspeandregu,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Protective inspection and regulation
+A2_Protinspeandregu,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Protective inspection and regulation
+A3_Protinspeandregu,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Protective inspection and regulation
+A4_Protinspeandregu,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Protective inspection and regulation
+A5_Protinspeandregu,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Public safety: - Protective inspection and regulation
+A1_NATURRESOUR,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources
+A2_NATURRESOUR,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources
+A3_NATURRESOUR,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources
+A4_NATURRESOUR,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources
+A5_NATURRESOUR,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources
+A1_CAPTALOUT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources - Capital outlay
+A2_CAPTALOUT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources - Capital outlay
+A3_CAPTALOUT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources - Capital outlay
+A4_CAPTALOUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources - Capital outlay
+A5_CAPTALOUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Natural resources - Capital outlay
+A1_PARKSANDREC,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation
+A2_PARKSANDREC,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation
+A3_PARKSANDREC,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation
+A4_PARKSANDREC,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation
+A5_PARKSANDREC,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation
+A1_CAPIOUT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation - Capital outlay
+A2_CAPIOUT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation - Capital outlay
+A3_CAPIOUT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation - Capital outlay
+A4_CAPIOUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation - Capital outlay
+A5_CAPIOUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Parks and recreation - Capital outlay
+A1_HOUSANDCOMMDEVE,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Housing and community development
+A2_HOUSANDCOMMDEVE,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Housing and community development
+A3_HOUSANDCOMMDEVE,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Housing and community development
+A4_HOUSANDCOMMDEVE,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Housing and community development
+A5_HOUSANDCOMMDEVE,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Housing and community development
+A1_SEWERA,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage
+A2_SEWERA,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage
+A3_SEWERA,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage
+A4_SEWERA,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage
+A5_SEWERA,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage
+A1_CAPITALOUTLA,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage - Capital outlay
+A2_CAPITALOUTLA,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage - Capital outlay
+A3_CAPITALOUTLA,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage - Capital outlay
+A4_CAPITALOUTLA,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage - Capital outlay
+A5_CAPITALOUTLA,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Sewerage - Capital outlay
+A1_SOLWASTMAN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management
+A2_SOLWASTMAN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management
+A3_SOLWASTMAN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management
+A4_SOLWASTMAN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management
+A5_SOLWASTMAN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management
+A1_CAPIOUTLA,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management - Capital outlay
+A2_CAPIOUTLA,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management - Capital outlay
+A3_CAPIOUTLA,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management - Capital outlay
+A4_CAPIOUTLA,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management - Capital outlay
+A5_CAPIOUTLA,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Enviroment and housing: - Solid waste management - Capital outlay
+A1_FINADMIN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Financial administration
+A2_FINADMIN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Financial administration
+A3_FINADMIN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Financial administration
+A4_FINADMIN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Financial administration
+A5_FINADMIN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Financial administration
+A1_JUDIANDLEG,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Judicial and legal
+A2_JUDIANDLEG,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Judicial and legal
+A3_JUDIANDLEG,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Judicial and legal
+A4_JUDIANDLEG,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Judicial and legal
+A5_JUDIANDLEG,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Judicial and legal
+A1_GENPUBBUILD,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - General public buildings
+A2_GENPUBBUILD,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - General public buildings
+A3_GENPUBBUILD,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - General public buildings
+A4_GENPUBBUILD,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - General public buildings
+A5_GENPUBBUILD,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - General public buildings
+A1_OTHGOVERNMENTALADMIN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Other governmental administration
+A2_OTHGOVERNMENTALADMIN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Other governmental administration
+A3_OTHGOVERNMENTALADMIN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Other governmental administration
+A4_OTHGOVERNMENTALADMIN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Other governmental administration
+A5_OTHGOVERNMENTALADMIN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Governmental administration: - Other governmental administration
+A1_INTERESTONGENDEBT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Interest on general debt
+A2_INTERESTONGENDEBT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Interest on general debt
+A3_INTERESTONGENDEBT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Interest on general debt
+A4_INTERESTONGENDEBT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Interest on general debt
+A5_INTERESTONGENDEBT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - Interest on general debt
+A1_MISCELLCOMMACTIV,"COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Miscellaneous commercial activities"
+A2_MISCELLCOMMACTIV,"MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Miscellaneous commercial activities"
+A3_MISCELLCOMMACTIV,"TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Miscellaneous commercial activities"
+A4_MISCELLCOMMACTIV,"SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Miscellaneous commercial activities"
+A5_MISCELLCOMMACTIV,"SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Miscellaneous commercial activities"
+A1_OTHERANDALLOC,"COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Other and unallocable"
+A2_OTHERANDALLOC,"MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Other and unallocable"
+A3_OTHERANDALLOC,"TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Other and unallocable"
+A4_OTHERANDALLOC,"SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Other and unallocable"
+A5_OTHERANDALLOC,"SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Direct general expenditure - General expenditure, n.e.c.: - Other and unallocable"
+A1_UTILITYEXPEN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure
+A2_UTILITYEXPEN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure
+A3_UTILITYEXPEN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure
+A4_UTILITYEXPEN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure
+A5_UTILITYEXPEN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure
+A1_CAOUT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Capital outlay - utility expenditure
+A2_CAOUT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Capital outlay - utility expenditure
+A3_CAOUT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Capital outlay - utility expenditure
+A4_CAOUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Capital outlay - utility expenditure
+A5_CAOUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Capital outlay - utility expenditure
+A1_WATERSUPP,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Water supply
+A2_WATERSUPP,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Water supply
+A3_WATERSUPP,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Water supply
+A4_WATERSUPP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Water supply
+A5_WATERSUPP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Water supply
+A1_ELECTRISUP,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Electric supply
+A2_ELECTRISUP,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Electric supply
+A3_ELECTRISUP,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Electric supply
+A4_ELECTRISUP,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Electric supply
+A5_ELECTRISUP,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Electric supply
+A1_GASSUPPLY,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Gas supply
+A2_GASSUPPLY,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Gas supply
+A3_GASSUPPLY,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Gas supply
+A4_GASSUPPLY,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Gas supply
+A5_GASSUPPLY,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Gas supply
+A1_TRANSIT,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Transit
+A2_TRANSIT,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Transit
+A3_TRANSIT,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Transit
+A4_TRANSIT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Transit
+A5_TRANSIT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Utility expenditure - Transit
+A1_LIQUORSTOREXPEN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Liquor store expenditure
+A2_LIQUORSTOREXPEN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Liquor store expenditure
+A3_LIQUORSTOREXPEN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Liquor store expenditure
+A4_LIQUORSTOREXPEN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Liquor store expenditure
+A5_LIQUORSTOREXPEN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Liquor store expenditure
+A1_INSURANCETRUSTEXPEN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure
+A2_INSURANCETRUSTEXPEN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure
+A3_INSURANCETRUSTEXPEN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure
+A4_INSURANCETRUSTEXPEN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure
+A5_INSURANCETRUSTEXPEN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure
+A1_UNEMPLOYCOMPEN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Unemployment compensation
+A2_UNEMPLOYCOMPEN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Unemployment compensation
+A3_UNEMPLOYCOMPEN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Unemployment compensation
+A4_UNEMPLOYCOMPEN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Unemployment compensation
+A5_UNEMPLOYCOMPEN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Unemployment compensation
+A1_EMPLOYEERETIRE,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Employee retirement
+A2_EMPLOYEERETIRE,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Employee retirement
+A3_EMPLOYEERETIRE,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Employee retirement
+A4_EMPLOYEERETIRE,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Employee retirement
+A5_EMPLOYEERETIRE,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Employee retirement
+A1_WORKERSCOMPEN,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Workers' compensation
+A2_WORKERSCOMPEN,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Workers' compensation
+A3_WORKERSCOMPEN,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Workers' compensation
+A4_WORKERSCOMPEN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Workers' compensation
+A5_WORKERSCOMPEN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Workers' compensation
+A1_OTHEINSURTRUST,COUNTY GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Other insurance trust
+A2_OTHEINSURTRUST,MUNICIPAL GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Other insurance trust
+A3_OTHEINSURTRUST,TOWNSHIP GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Other insurance trust
+A4_OTHEINSURTRUST,SPECIAL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Other insurance trust
+A5_OTHEINSURTRUST,SCHOOL DISTRICT GOVERNMENT AMOUNT; Expenditure - Direct expenditure by function - Insurance trust expenditure - Other insurance trust
+A1_DEBTOUT,COUNTY GOVERNMENT AMOUNT; Debt outstanding
+A2_DEBTOUT,MUNICIPAL GOVERNMENT AMOUNT; Debt outstanding
+A3_DEBTOUT,TOWNSHIP GOVERNMENT AMOUNT; Debt outstanding
+A4_DEBTOUT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Debt outstanding
+A5_DEBTOUT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Debt outstanding
+A1_SHORTTERM,COUNTY GOVERNMENT AMOUNT; Debt outstanding - Short-term
+A2_SHORTTERM,MUNICIPAL GOVERNMENT AMOUNT; Debt outstanding - Short-term
+A3_SHORTTERM,TOWNSHIP GOVERNMENT AMOUNT; Debt outstanding - Short-term
+A4_SHORTTERM,SPECIAL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Short-term
+A5_SHORTTERM,SCHOOL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Short-term
+A1_LONGTERM,COUNTY GOVERNMENT AMOUNT; Debt outstanding - Long-term
+A2_LONGTERM,MUNICIPAL GOVERNMENT AMOUNT; Debt outstanding - Long-term
+A3_LONGTERM,TOWNSHIP GOVERNMENT AMOUNT; Debt outstanding - Long-term
+A4_LONGTERM,SPECIAL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Long-term
+A5_LONGTERM,SCHOOL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Long-term
+A1_PUBLICDEBTFORPRIVA,COUNTY GOVERNMENT AMOUNT; Debt outstanding - Long-term - Public debt for private purposes
+A2_PUBLICDEBTFORPRIVA,MUNICIPAL GOVERNMENT AMOUNT; Debt outstanding - Long-term - Public debt for private purposes
+A3_PUBLICDEBTFORPRIVA,TOWNSHIP GOVERNMENT AMOUNT; Debt outstanding - Long-term - Public debt for private purposes
+A4_PUBLICDEBTFORPRIVA,SPECIAL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Long-term - Public debt for private purposes
+A5_PUBLICDEBTFORPRIVA,SCHOOL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Long-term - Public debt for private purposes
+A1_LONGTERDEBTISS,COUNTY GOVERNMENT AMOUNT; Debt outstanding - Long-term debt issued
+A2_LONGTERDEBTISS,MUNICIPAL GOVERNMENT AMOUNT; Debt outstanding - Long-term debt issued
+A3_LONGTERDEBTISS,TOWNSHIP GOVERNMENT AMOUNT; Debt outstanding - Long-term debt issued
+A4_LONGTERDEBTISS,SPECIAL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Long-term debt issued
+A5_LONGTERDEBTISS,SCHOOL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Long-term debt issued
+A1_LONGTERMDEBTRETI,COUNTY GOVERNMENT AMOUNT; Debt outstanding - Long-term debt retired
+A2_LONGTERMDEBTRETI,MUNICIPAL GOVERNMENT AMOUNT; Debt outstanding - Long-term debt retired
+A3_LONGTERMDEBTRETI,TOWNSHIP GOVERNMENT AMOUNT; Debt outstanding - Long-term debt retired
+A4_LONGTERMDEBTRETI,SPECIAL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Long-term debt retired
+A5_LONGTERMDEBTRETI,SCHOOL DISTRICT GOVERNMENT AMOUNT; Debt outstanding - Long-term debt retired
+A1_CASHANDSECURHOLD,COUNTY GOVERNMENT AMOUNT; Cash and security holdings
+A2_CASHANDSECURHOLD,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings
+A3_CASHANDSECURHOLD,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings
+A4_CASHANDSECURHOLD,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings
+A5_CASHANDSECURHOLD,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings
+A1_INSURACETRUSTFUND,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds
+A2_INSURACETRUSTFUND,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds
+A3_INSURACETRUSTFUND,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds
+A4_INSURACETRUSTFUND,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds
+A5_INSURACETRUSTFUND,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds
+A1_UNEMPLOYMENTCOMPENS,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Unemployment compensation
+A2_UNEMPLOYMENTCOMPENS,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Unemployment compensation
+A3_UNEMPLOYMENTCOMPENS,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Unemployment compensation
+A4_UNEMPLOYMENTCOMPENS,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Unemployment compensation
+A5_UNEMPLOYMENTCOMPENS,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Unemployment compensation
+A1_EMPLOYERETIRE,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Employee retirement
+A2_EMPLOYERETIRE,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Employee retirement
+A3_EMPLOYERETIRE,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Employee retirement
+A4_EMPLOYERETIRE,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Employee retirement
+A5_EMPLOYERETIRE,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Employee retirement
+A1_WORKERSCOMPENSA,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Workers'compensation
+A2_WORKERSCOMPENSA,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Workers'compensation
+A3_WORKERSCOMPENSA,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Workers'compensation
+A4_WORKERSCOMPENSA,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Workers'compensation
+A5_WORKERSCOMPENSA,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Workers'compensation
+A1_MIS,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Miscellaneous
+A2_MIS,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Miscellaneous
+A3_MIS,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Miscellaneous
+A4_MIS,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Miscellaneous
+A5_MIS,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Insurance trust funds - Miscellaneous
+A1_OHTERTHANINSURANTRUSTFUND,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds
+A2_OHTERTHANINSURANTRUSTFUND,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds
+A3_OHTERTHANINSURANTRUSTFUND,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds
+A4_OHTERTHANINSURANTRUSTFUND,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds
+A5_OHTERTHANINSURANTRUSTFUND,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds
+A1_OFFSETSTODEBT,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Offsets to debt
+A2_OFFSETSTODEBT,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Offsets to debt
+A3_OFFSETSTODEBT,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Offsets to debt
+A4_OFFSETSTODEBT,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Offsets to debt
+A5_OFFSETSTODEBT,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Offsets to debt
+A1_BONDFUN,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Bond funds
+A2_BONDFUN,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Bond funds
+A3_BONDFUN,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Bond funds
+A4_BONDFUN,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Bond funds
+A5_BONDFUN,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Bond funds
+A1_OTH,COUNTY GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Other
+A2_OTH,MUNICIPAL GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Other
+A3_OTH,TOWNSHIP GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Other
+A4_OTH,SPECIAL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Other
+A5_OTH,SCHOOL DISTRICT GOVERNMENT AMOUNT; Cash and security holdings - Other than insurance trust funds - By purpose: - Other
