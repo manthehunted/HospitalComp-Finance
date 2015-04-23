@@ -24,7 +24,7 @@ Expected performance is categorised in:
 
 # How to Use <code>Prediction.py</code>
 1. import Predition.py
-2. intiate with Prediction() with the inputs listed in **Input to Predictor** (*Note*: the inputs must be in listed order). The default is all 0s.
+2. intiate with Prediction( ) with the inputs listed in **Input to Predictor** (*Note*: the inputs must be in listed order). The default is all 0s.
 3. make a prediction via Prediction_instance.result().
 4. return predicted label and associated probabilities.
 
