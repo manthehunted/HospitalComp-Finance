@@ -1,5 +1,6 @@
 # HospitalComp-Finance
-This is a preliminary analysis of hospital readmission rate (county-wise) based on regional financial status.  Data is obtained from [data.gov](http://www.data.gov/).
+##Objectives: predict hospital performance based on finance
+This is a preliminary prediction analysis of hospital performance (county-wise) based on regional financial status.  Data is obtained from [data.gov](http://www.data.gov/).
 
 #### Data contained in folder, *data* 
 *Finance Related*
@@ -17,16 +18,21 @@ This is a preliminary analysis of hospital readmission rate (county-wise) based 
 
 # Make Prediction 
 Based on financial data, expected hospital performance can be predicted using module <code>Prediction.py</code>
-Expected performance is categorised in:
+Expected performance is categorized in:
+
 1. Better: better than national average
 2. Nominal: national average
 3. Worse: worse than national average
 
 # How to Use <code>Prediction.py</code>
-1. import Predition.py
-2. intiate with Prediction( ) with the inputs listed in **Input to Predictor** (*Note*: the inputs must be in listed order). The default is all 0s.
-3. make a prediction via Prediction_instance.result().
-4. return predicted label and associated probabilities.
+**Warning**: Please obtain API key from me to use the module. 
+
+1. obtain API key
+2. edit Prediction.py as noted in the file.
+3. import Prediction.py
+4. intiate with Prediction( ) with the inputs listed in **Input to Predictor**. The default values are all 0s.
+5. make a prediction via Prediction_instance.result( ).
+6. return predicted label and associated probabilities.
 
 # Package Dependencies
 * > Python 2.7 (not tested with Python 3).
@@ -36,6 +42,8 @@ Expected performance is categorised in:
 * numpy 
 
 # Input to Predictor
+*Note*: Please look up state_code.txt for input **state**.
+
 <table>
 <tr>
   <th><b>Factor<b></th>
@@ -45,7 +53,7 @@ Expected performance is categorised in:
 </tr>
 <tr>
   <td>Annual Payroll (mean)</td>
-  <td>APayroll</td>
+  <td>APayroll_mean</td>
   <td>numeric</td>
   <td>(35, 600,000)<td>
 </tr>
@@ -105,7 +113,8 @@ Expected performance is categorised in:
 </tr>
 </table>
 
-
+# Contact
+For any information, please contact Shoko (s.ryu (at) go.wustl.edu)
 
 
 
