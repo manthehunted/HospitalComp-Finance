@@ -2,16 +2,16 @@
 This is a preliminary analysis of hospital readmission rate (county-wise) based on regional financial status.  Data is obtained from [data.gov](http://www.data.gov/).
 
 #### Data contained in folder, *data* 
-  *Finance Related*
+*Finance Related*
 * **COG_2012_LGF002.csv**: local government finances by type of government and state (found in folder, COG_2012_LGF002)
 * **cbp12co.txt**: county business pattern (available [here](https://www.census.gov/econ/cbp/download/))
 * **allpovu_copy.csv**: Estimated population in poverty universe
 * **est13ALL_copy.csv**: Poverty and Median Household Income Estimates
 
-  *Hospital Related*
+*Hospital Related*
 * **Outcome of Care Measures.csv**: outcome of care measure per hospital (found in folder, HOSArchive_Revised_Flatfiles_20131001)
 
-  *Supplimentray*
+*Supplimentray*
 * **state_abb.txt**: abbrebiation table for state name
 * **national_county_code.txt**:  FIPS (Federal Information Processing Standard) code
 
