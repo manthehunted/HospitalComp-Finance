@@ -31,7 +31,7 @@ Expected performance is categorized in:
 1. obtain API key.
 2. edit Prediction.py as noted in the file.
 3. import <code>Prediction.py</code>
-4. intiate with Prediction( ) with the inputs listed in **Input to Predictor**. The default values are all 0s.
+4. intiate with Prediction( ) with the inputs listed in section, **Input to Predictor**. The default values are all 0s.
 5. make a prediction via Prediction_instance.result( ).
 6. return predicted label and associated probabilities.
 
