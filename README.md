@@ -4,20 +4,21 @@ This is a preliminary prediction analysis of hospital performance (county-wise) 
 
 #### Data contained in folder, *data* 
 *Finance Related*
-* **COG_2012_LGF002.csv**: local government finances by type of government and state (found in folder, COG_2012_LGF002)
-* **cbp12co.txt**: county business pattern (available [here](https://www.census.gov/econ/cbp/download/))
-* **allpovu_copy.csv**: Estimated population in poverty universe
-* **est13ALL_copy.csv**: Poverty and Median Household Income Estimates
+* **COG_2012_LGF002.csv**: local government finances by type of government and state (found in folder, COG_2012_LGF002).
+* **cbp12co.txt**: county business pattern (available [here](https://www.census.gov/econ/cbp/download/)).
+* **allpovu_copy.csv**: Estimated population in poverty universe.
+* **est13ALL_copy.csv**: Poverty and Median Household Income Estimates.
 
 *Hospital Related*
-* **Outcome of Care Measures.csv**: outcome of care measure per hospital (found in folder, HOSArchive_Revised_Flatfiles_20131001)
+* **Outcome of Care Measures.csv**: outcome of care measure per hospital (found in folder, HOSArchive_Revised_Flatfiles_20131001).
 
 *Supplimentray*
-* **state_abb.txt**: abbrebiation table for state name
-* **national_county_code.txt**:  FIPS (Federal Information Processing Standard) code
+* **state_abb.txt**: abbrebiation table for state name.
+* **national_county_code.txt**:  FIPS (Federal Information Processing Standard) code.
 
 # Make Prediction 
-Based on financial data, expected hospital performance can be predicted using module <code>Prediction.py</code>
+Based on financial data, expected hospital performance can be predicted using module <code>Prediction.py</code>.
+
 Expected performance is categorized in:
 
 1. Better: better than national average
@@ -27,7 +28,7 @@ Expected performance is categorized in:
 # How to Use <code>Prediction.py</code>
 **Warning**: Please obtain API key from me to use the module. 
 
-1. obtain API key
+1. obtain API key.
 2. edit Prediction.py as noted in the file.
 3. import <code>Prediction.py</code>
 4. intiate with Prediction( ) with the inputs listed in **Input to Predictor**. The default values are all 0s.
