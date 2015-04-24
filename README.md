@@ -47,78 +47,78 @@ Expected performance is categorized in:
 
 <table>
 <tr>
-  <th><b>Factor<b></th>
   <th><b>Input Name<b></th>
+  <th><b>Description<b></th>
   <th><b>Data Type<b></th>
   <th><b>Unit<b></th>
   <th><b>Value (min, max)<b<</th>
 </tr>
 <tr>
-  <td>Annual Payroll (mean)</td>
   <td>APayroll_mean</td>
+  <td>Annual Payroll (mean)</td>
   <td>numeric</td>
   <td>$1,000</td>
   <td>(35, 600,000)<td>
 </tr>
 <tr>
-  <td>Annual Payroll (standard deviation)</td>
   <td>APayroll_std</td>
+  <td>Annual Payroll (standard deviation)</td>
   <td>numeric</td>
   <td>($1,000)<sup>2</sup></td>
   <td>(100, 400)<td>
 </tr>
 <tr>
-  <td>Establishment (mean)</td>
   <td>Establishment_mean</td>
+  <td>Establishment (mean)</td>
   <td>numeric</td>
   <td>Count</td>
   <td>(2, 650)<td>
 </tr>
 <tr>
-  <td>Establishment (standard deviation)</td>
   <td>Establishment_std</td>
+  <td>Establishment (standard deviation)</td>
   <td>numeric</td>
   <td>(Count)<sup>2</sup></td>
   <td>(1, 2,500)<td>
 </tr>
 <tr>
-  <td>Healthcare expenditure by a county government</td>
   <td>county_health_exp</td>
+  <td>Healthcare expenditure by a county government</td>
   <td>numeric</td>
   <td>$1,000</td>
   <td>(300, 7,000,000)<td>
 </tr>
 <tr>
-  <td>Median income of a household</td>
   <td>income</td>
+  <td>Median income of a household</td>
   <td>numeric</td>
   <td>$1</td>
   <td>(24,000, 117,680)<td>
 </tr>
 <tr>
-  <td>Municipal healthcare expenditure</td>
   <td>municipal_health_exp</td>
+  <td>Municipal healthcare expenditure</td>
   <td>numeric</td>
   <td>$1,000</td>
   <td>(80, 1,800,000)<td>
 </tr>
 <tr>
-  <td>Poverty</td>
   <td>pov</td>
+  <td>Poverty</td>
   <td>numeric</td>
   <td>population</td>
   <td>(1,600, 9,900,000)<td>
 </tr>
 <tr>
-  <td>General revenue of a county government</td>
   <td>revenue</td>
+  <td>General revenue of a county government</td>
   <td>numeric</td>
   <td>$1,000</td>
   <td>(18,000, 71,000,000)<td>
 </tr>
 <tr>
-  <td>State code where a county belongs</td>
   <td>state</td>
+  <td>State code where a county belongs</td>
   <td>numeric</td>
   <td>N/A</td>
   <td>(1, 50)<td>
