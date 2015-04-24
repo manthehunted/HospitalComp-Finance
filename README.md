@@ -16,7 +16,7 @@ This is a preliminary prediction analysis of hospital performance (county-wise) 
 * **state_abb.txt**: abbrebiation table for state name.
 * **national_county_code.txt**:  FIPS (Federal Information Processing Standard) code.
 
-# Make Prediction 
+# Make Prediction - 3 Categories
 Based on financial data, expected hospital performance can be predicted using module <code>Prediction.py</code>.
 
 Expected performance is categorized in:
