@@ -1,5 +1,5 @@
 # HospitalComp-Finance
-##Objectives: predict hospital performance based on finance
+##Objectives
 This is a preliminary prediction analysis of hospital performance (county-wise) based on regional financial status, Year 2012.  Data is obtained from [census.gov](http://www.census.gov/) and [medicare.gov](http://www.medicare.gov/).
 
 #### Data contained in folder, *data* 
